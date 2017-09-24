@@ -1,2 +1,2 @@
 # ChromeExtension
-Extension to save list of interested items
+Getting selected text on active page to the extension popup
